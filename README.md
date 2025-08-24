@@ -62,7 +62,3 @@
   <a href="https://www.leetcode.com/malyachoudha"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://auth.geeksforgeeks.org/user/malyachopy7n"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
-
----
-
-⭐ “Code is like humor. When you have to explain it, it’s bad.”
