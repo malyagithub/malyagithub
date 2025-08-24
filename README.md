@@ -42,17 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malyagithub&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malyagithub&theme=tokyonight" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malyagithub&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ### 🌐 Connect with Me  
 <p align="center">
